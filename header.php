@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
     <!-- swiper js links -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
-/>
+        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
 </head>
 <body>
     
@@ -42,7 +42,7 @@
             if(!isset($_SESSION['username'])){
                     echo '<p class="text-sm text-gray-500">hello guest, '.$time.'</p>';
                 }else{
-                    echo '<p class="text-sm text-gray-500"> '.$msg.' , '.$_SESSION['username'].' || this is '.$time.' </p>';
+                    echo '<p class="text-sm text-gray-500"> '.$msg.' , '.$_SESSION['username'].' || '.$time.' </p>';
                 }
             ?>
             <div class="items-end">
@@ -60,7 +60,7 @@
 
         <div class="flex justify-between items-center bg-sky-600 p-2 md:gap-1 relative z-index-10">
             <div>
-                <a href="index.php" class="text-xl text-gray-200">Mobile <span class="text-md spa">Door</span></a>
+                <a href="index.php" class="text-xl text-gray-200">Mobile <span class="text-md spa">Shop</span></a>
             </div>
             <div class="">
                    <input type="text" id="search" class="pl-2 py-[5px] rounded-sm" placeholder="Search here">
@@ -77,8 +77,8 @@
                  <ul class="sm:flex sm:items-center">
                     <li><a href="#" class="px-2 py-1 hover:bg-gray-100 hover:text-pink-700 rounded-md">Presales</a></li>
                     <li><a href="categories.php" class="px-2 py-1 hover:bg-gray-100 hover:text-pink-700 rounded-md">categories</a></li>
-                    <li><a href="#" class="px-2 py-1 hover:bg-gray-100 hover:text-pink-700 rounded-md">brand new</a></li>
-                    <li><a href="#" class="px-2 py-1 hover:bg-gray-100 hover:text-pink-700 rounded-md">low budget</a></li>
+                    <li><a href="search-and-view.php" class="px-2 py-1 hover:bg-gray-100 hover:text-pink-700 rounded-md">Search products</a></li>
+                    
                     <div class="carts">
                     <a href="carts.php">
                     <button class="ml-2 mt-2 sm:ml-1 sm:mt-0 text-white text-xl hover:text-yellow-400"><i class="fa-solid fa-cart-shopping"></i>(<span id="cartNum">0</span>)</button>

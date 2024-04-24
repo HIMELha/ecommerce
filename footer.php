@@ -1,5 +1,5 @@
-<div class="footer flex flex-col ">
-<div class="xl:px-[10%]  w-full grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mx-auto pb-6 pt-10 px-[4%] bg-zinc-100">
+<div class="footer flex flex-col bg-zinc-100  mx-auto">
+<div class="xl:px-[10%]  w-full grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4  mx-auto pb-6 pt-10 px-[4%] max-w-[1400px]">
 <div class="mb-5">
   <h2 class="font-medium text-xl py-2">Help & contact</h2>
   <ul>
@@ -18,15 +18,10 @@
   <ul>
     <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">Samsunng</a></li>
     <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">Techno</a></li>
-    <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">xaomi</a></li>
+
     <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">redmi</a></li>
-    <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">oppo</a></li>
-    <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">realme</a></li>
     <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">vivo</a></li>
-    <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">walton</a></li>
     <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">itel</a></li>
-    <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">nokia</a></li>
-    <li class="mt-2"><a href="#" class="py-2 hover:text-sky-700">button phones</a></li>
   </ul>
 </div>
 
@@ -54,10 +49,10 @@
   </ul>
 </div>
 </div>
-
-  <div class="flex justify-between items-center px-4 bg-slate-200">
+  <diiv class="bg-slate-200">
+<div class="flex justify-between items-center px-[3%]  max-w-[1300px] mx-auto">
    <div>
-    <h3 class="p-2 text-md text-zinc-800">&copy; mobileDoor Developed by <a href="#" class="text-sky-600">TechDoor</a></h3>
+    <h3 class="p-2 text-md text-zinc-800">&copy; MobileShop Developed by <a href="#" class="text-sky-600">Webhimel</a></h3>
    </div>
 
    <div class="flex flex-wrap">
@@ -67,6 +62,8 @@
     <i class="fa-brands fa-youtube text-red-600 text-xl ml-2"></i>
    </div>
   </div>
+  </diiv>
+  
 </div>
 
  

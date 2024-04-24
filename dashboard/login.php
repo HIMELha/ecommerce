@@ -22,7 +22,8 @@ if(isset($_SESSION['admin'])){
 
 <form id="login-form" method="POST" class="p-4 m-4 flex flex-col max-w-[500px] mx-auto bg-slate-200 rounded-md">
   <h3 class="text-center text-gray-600 text-xl">Sign In</h3>
-
+  <p>Demo user: admin</p>
+  <p>Demo pass: 123456</p>
 <label for="username" class="text-[18px] text-gray-700">Username</label>
 <input id="uname" type="text" name="username" placeholder="enter your username" class="p-2 border border-sky-400  rounded-sm mb-4">
 

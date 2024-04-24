@@ -19,7 +19,7 @@ if (isset($_POST['create'])) { // Use POST method instead of REQUEST for better 
             $row = mysqli_fetch_assoc($result);
 
             if($row['status'] === 'suspended'){
-                echo json_encode(array('error' => 'অএব সাইতে দুকে আবালামি করার কারনে আপনার আকউন্ত সুস্পেন্দ করা হয়েসে'));
+                echo json_encode(array('error' => 'Your account has been suspended'));
                 die();
             }else if($row['status'] === 'normal'){
                 session_start();

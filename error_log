@@ -1,0 +1,1405 @@
+[14-Dec-2023 15:15:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:16:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/search-and-view.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:16:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/search-and-view.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:17:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/search-and-view.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/search-and-view.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:17:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:17:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:17:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:20:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:21:00 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 09:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 09:25:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:25:03 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:25:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 15:25:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:39:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:4
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 4
+[14-Dec-2023 09:42:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:5
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 5
+[14-Dec-2023 15:42:30 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:5
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 5
+[14-Dec-2023 15:42:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:5
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 5
+[14-Dec-2023 15:44:03 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:8
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 8
+[14-Dec-2023 15:44:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:8
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/carts.php(11): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 8
+[14-Dec-2023 09:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:8
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 8
+[14-Dec-2023 15:44:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:8
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 8
+[14-Dec-2023 15:46:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:8
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 8
+[14-Dec-2023 09:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:8
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 8
+[14-Dec-2023 15:47:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:47:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 09:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:51:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:51:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 09:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 09:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:52:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:54:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:54:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 09:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:54:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:54:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:57:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 15:57:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:00:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 16:00:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 16:04:00 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 16:07:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/efoiylwv/public_html/mobileshop/php/config.php:9
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/php/config.php on line 9
+[14-Dec-2023 10:08:37 UTC] PHP Warning:  Undefined variable $username in /home/efoiylwv/public_html/mobileshop/php/config.php on line 10
+[14-Dec-2023 10:08:37 UTC] PHP Warning:  Undefined variable $password in /home/efoiylwv/public_html/mobileshop/php/config.php on line 10
+[14-Dec-2023 16:08:37 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:08:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:09:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:09:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:09:39 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:09:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:09:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:10:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:10:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:10:15 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/categories.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:11:10 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, PDO given in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 /home/efoiylwv/public_html/mobileshop/index.php(37): mysqli_query()
+#1 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:12:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:12:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:13:02 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:13:02 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/efoiylwv/public_html/mobileshop/index.php on line 38
+[14-Dec-2023 16:13:02 Asia/Dhaka] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/footer.php on line 79
+[14-Dec-2023 16:13:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/efoiylwv/public_html/mobileshop/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:14:09 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:14:09 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/efoiylwv/public_html/mobileshop/index.php on line 38
+[14-Dec-2023 16:14:09 Asia/Dhaka] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/footer.php on line 79
+[14-Dec-2023 16:14:16 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/categories.php on line 10
+[14-Dec-2023 16:14:16 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/efoiylwv/public_html/mobileshop/categories.php on line 11
+[14-Dec-2023 16:14:16 Asia/Dhaka] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/footer.php on line 79
+[14-Dec-2023 16:14:22 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/index.php on line 37
+[14-Dec-2023 16:14:22 Asia/Dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/efoiylwv/public_html/mobileshop/index.php on line 38
+[14-Dec-2023 16:14:22 Asia/Dhaka] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/efoiylwv/public_html/mobileshop/footer.php on line 79
+[14-Dec-2023 16:18:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:51 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:18:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:19:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 16:19:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:49:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:49:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:49:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:50:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:50:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:50:29 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 21:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/search-and-view.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:50:36 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 21:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:50:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:50:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 21:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 21:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 03:57:52 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 04:18:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 04:18:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 04:18:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/carts.php(11): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 22:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/search-and-view.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 22:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/categories.php(2): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 04:18:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Dec-2023 22:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/account.php(6): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 04:22:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 04:22:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 05:33:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 05:33:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 06:51:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 07:26:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 07:56:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 08:45:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 09:18:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 09:56:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 10:05:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 10:05:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 10:06:51 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 10:06:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 11:23:30 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:41:23 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:42:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:43:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:44:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 17:45:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 18:26:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 18:32:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 21:39:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Dec-2023 23:36:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 00:06:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 00:09:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 01:07:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 01:07:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 01:54:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 07:38:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 07:39:00 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 08:05:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 08:05:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 08:28:28 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 08:29:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 09:17:39 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 09:20:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 09:20:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 09:20:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 09:20:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 09:20:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 16:05:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 16:05:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 17:34:40 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 17:34:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 18:24:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Dec-2023 18:30:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Dec-2023 06:30:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Dec-2023 07:19:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Dec-2023 13:08:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Dec-2023 13:08:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Dec-2023 18:24:03 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Dec-2023 18:29:28 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 04:40:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 04:40:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 09:10:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 09:10:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 16:27:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 16:27:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 18:25:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 18:30:40 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Dec-2023 22:00:15 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 03:05:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 03:06:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 03:08:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 03:11:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 04:11:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 04:11:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 06:15:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 07:36:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 07:37:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 17:40:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 17:40:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 18:25:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Dec-2023 18:31:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 03:35:56 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 05:09:30 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 11:16:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 11:16:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 18:25:37 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 18:31:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Dec-2023 21:53:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 01:00:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 04:34:33 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 04:53:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 06:07:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 09:06:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 09:06:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 10:15:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 10:15:36 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 15:19:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 15:19:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 18:24:35 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Dec-2023 18:30:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[22-Dec-2023 00:01:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[22-Dec-2023 02:15:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[22-Dec-2023 18:17:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[22-Dec-2023 18:17:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[22-Dec-2023 19:59:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Dec-2023 05:44:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Dec-2023 12:57:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Dec-2023 22:16:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Dec-2023 22:16:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Dec-2023 01:42:23 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Dec-2023 08:12:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Dec-2023 17:24:36 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[25-Dec-2023 00:15:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[25-Dec-2023 00:15:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[25-Dec-2023 11:12:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Dec-2023 02:10:49 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Dec-2023 02:10:49 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Dec-2023 18:47:51 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[27-Dec-2023 16:20:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[27-Dec-2023 16:20:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Dec-2023 07:17:35 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Dec-2023 07:17:36 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Dec-2023 09:01:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Dec-2023 09:28:29 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 01:43:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 02:47:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 09:06:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 13:46:00 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 15:54:52 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 16:01:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 20:13:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 20:13:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[30-Dec-2023 21:31:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[31-Dec-2023 00:09:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[31-Dec-2023 21:38:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Jan-2024 01:11:27 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php:10
+Stack trace:
+#0 /home/efoiylwv/mobileshop.postbd.xyz/index.php(35): include()
+#1 {main}
+  thrown in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[31-Jan-2024 17:37:39 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[31-Jan-2024 23:42:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Feb-2024 09:55:19 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Feb-2024 09:55:20 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Feb-2024 13:03:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Feb-2024 13:03:18 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Feb-2024 13:17:49 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[03-Feb-2024 04:14:46 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[03-Feb-2024 17:52:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[04-Feb-2024 10:08:17 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Feb-2024 09:40:36 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Feb-2024 11:34:42 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[07-Feb-2024 06:03:35 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[07-Feb-2024 10:38:44 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[12-Feb-2024 22:18:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 01:05:50 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 01:47:29 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 01:55:55 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 02:51:40 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 03:12:26 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 04:49:29 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:04 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:05 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:06 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:07 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:12 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:12 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:13 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:13 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:13 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:14 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:18 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:24 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:24 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:46 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:46 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:46 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:46 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:47 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:47 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 11:30:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 11:30:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:49 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:49 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:50 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:50 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 11:30:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:50 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:51 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:51 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:52 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:30:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:31:01 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:31:02 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:31:06 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:31:14 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:31:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:31:36 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:22 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:22 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:31 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:31 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:34:39 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 17:40:48 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 18:07:58 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 18:11:59 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 20:29:56 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 22:55:02 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 22:55:03 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 22:56:24 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 22:56:24 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 23:01:12 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 23:54:28 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 23:54:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 23:55:56 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Feb-2024 23:55:56 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 00:00:45 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 00:08:12 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 01:30:14 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 01:59:56 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 05:33:59 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 05:34:02 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 05:37:00 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 06:26:08 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 06:26:09 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 06:32:58 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 06:32:59 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 10:27:10 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 12:00:37 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 13:52:48 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 14:06:32 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 17:59:57 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 18:00:06 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[14-Feb-2024 23:01:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 07:50:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 08:46:27 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 13:48:14 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 13:48:15 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 17:29:14 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 17:29:15 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[15-Feb-2024 23:01:26 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 07:37:48 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 07:37:49 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 08:17:34 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 08:17:35 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 10:47:07 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 13:57:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 23:01:26 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Feb-2024 23:09:49 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Feb-2024 03:45:06 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[17-Feb-2024 23:01:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Feb-2024 07:14:52 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Feb-2024 07:14:52 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Feb-2024 23:01:23 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Feb-2024 01:45:05 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Feb-2024 02:17:13 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[19-Feb-2024 23:01:28 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Feb-2024 16:38:27 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Feb-2024 17:09:17 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[20-Feb-2024 23:01:27 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Feb-2024 03:34:04 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Feb-2024 03:38:59 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Feb-2024 04:10:00 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Feb-2024 10:02:21 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Feb-2024 15:05:00 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[21-Feb-2024 23:01:25 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[22-Feb-2024 23:01:20 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Feb-2024 01:44:32 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Feb-2024 02:17:22 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Feb-2024 15:21:56 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Feb-2024 15:31:06 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Feb-2024 17:09:42 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[23-Feb-2024 23:01:22 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Feb-2024 05:48:39 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Feb-2024 13:27:02 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Feb-2024 14:06:58 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Feb-2024 19:19:47 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[24-Feb-2024 23:01:24 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[25-Feb-2024 00:02:39 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[25-Feb-2024 04:09:18 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[25-Feb-2024 23:01:23 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Feb-2024 05:10:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Feb-2024 12:42:57 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Feb-2024 16:57:56 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[26-Feb-2024 23:01:31 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[27-Feb-2024 11:25:29 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[27-Feb-2024 20:38:22 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[27-Feb-2024 23:01:28 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[27-Feb-2024 23:16:09 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[28-Feb-2024 21:46:59 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[28-Feb-2024 23:01:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 08:05:20 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 08:15:35 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 08:15:36 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 08:33:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 08:33:16 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 11:09:52 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[29-Feb-2024 23:01:33 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Mar-2024 05:05:20 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Mar-2024 07:07:09 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Mar-2024 08:59:31 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Mar-2024 14:52:52 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Mar-2024 15:19:02 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[01-Mar-2024 23:01:34 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[02-Mar-2024 09:19:51 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[02-Mar-2024 21:39:12 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[02-Mar-2024 21:41:42 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[02-Mar-2024 23:01:28 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[02-Mar-2024 23:57:25 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[03-Mar-2024 23:01:34 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[04-Mar-2024 08:37:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[04-Mar-2024 13:41:03 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[04-Mar-2024 23:01:29 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Mar-2024 02:29:27 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Mar-2024 07:21:50 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Mar-2024 07:35:57 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Mar-2024 12:33:30 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Mar-2024 17:11:53 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[05-Mar-2024 23:01:37 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[06-Mar-2024 01:19:34 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[06-Mar-2024 06:20:24 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[06-Mar-2024 23:01:40 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[08-Mar-2024 06:19:33 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[08-Mar-2024 08:39:01 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[08-Mar-2024 09:18:11 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[08-Mar-2024 12:16:35 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[10-Mar-2024 13:49:05 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[11-Mar-2024 19:25:02 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Mar-2024 07:23:44 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[13-Mar-2024 19:44:44 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Mar-2024 12:24:05 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Mar-2024 15:11:54 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[16-Mar-2024 19:52:19 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10
+[18-Mar-2024 02:48:03 Asia/Dhaka] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'efoiylwv_mobileshop' in /home/efoiylwv/mobileshop.postbd.xyz/php/config.php on line 10

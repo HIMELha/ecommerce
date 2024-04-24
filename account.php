@@ -43,20 +43,20 @@ include 'header.php';?>
 
           <div class="p-3 border-2 border-slate-600  flex flex-col justfy-center rounded-md">
           <i class="fa-regular fa-heart text-5xl p-2 text-center text-red-500"></i>
-          <h2 class="text-center text-gray-700 text-2xl"><span class="text-3xl text-red-500 mr-2">34</span>Products in your wishlists</h2>
-          <a href="carts.php" class="mt-2 text-center text-sky-600 text-xl">check wishlists</a>
+          <h2 class="text-center text-gray-700 text-2xl">Products in your wishlists</h2>
+          <a href="wishlists.php" class="mt-2 text-center text-sky-600 text-xl">check wishlists</a>
         </div>
 
          <div class="p-3 border-2 border-slate-600  flex flex-col justfy-center rounded-md">
         <i class="fa-solid fa-wrench text-5xl p-2 text-center text-yellow-500"></i>
-          <h2 class="text-center text-gray-700 text-2xl"><span class="text-3xl text-red-500 mr-2">4</span>Products in pending orders</h2>
+          <h2 class="text-center text-gray-700 text-2xl">Products in pending orders</h2>
           <a href="order.php" class="mt-2 text-center text-sky-600 text-xl">check orders</a>
         </div>
 
         <div class="p-3 border-2 border-slate-600  flex flex-col justfy-center rounded-md">
-          <i class="fa-regular fa-circle-check text-5xl p-2 text-center text-green-500"></i>
-          <h2 class="text-center text-gray-700 text-2xl"><span class="text-3xl text-red-500 mr-2">4</span>successful orders</h2>
-          <a href="order.php" class="mt-2 text-center text-sky-600 text-xl">check orders</a>
+          <i class="fa-solid fa-store text-5xl p-2 text-center text-green-500"></i>
+          <h2 class="text-center text-gray-700 text-2xl">Explore more products</h2>
+          <a href="index.php" class="mt-2 text-center text-sky-600 text-xl">explore</a>
         </div>
     </div>
 </div>

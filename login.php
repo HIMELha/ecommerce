@@ -13,6 +13,9 @@ if(isset($_SESSION['username'])){
   <h2 id="err-msg" class="p-2 my-2 text-center text-[18px] text-red-700 border border-red-600 bg-red-100 hidden"></h2>
   <h2 id="success-message" class="p-2 my-2 text-center text-[18px] text-blue-700 border border-sky-600 bg-cyan-100 hidden"></h2>
 
+  <p>Demo user: user@example.com</p>
+  <p>Demo pass: user1234</p>
+
 <label for="username" class="text-[18px] text-gray-700">Username</label>
 <input id="uname" type="text" name="username" placeholder="enter your username" class="p-2 border border-sky-400  rounded-sm mb-4">
 
@@ -24,7 +27,7 @@ if(isset($_SESSION['username'])){
 
 <div class="mt-6 mx-auto max-w-[400px]"> 
 <p class="p-2 text-slate-600">Don't have an account? <a href="register.php" class="hover:text-blue-500">Create an account</a></p>
-<p class="p-2 text-slate-600">forgot password? <a href="reset-pass.ph" class="hover:text-blue-500">reset here</a></p>
+<!-- <p class="p-2 text-slate-600">forgot password? <a href="reset-pass.ph" class="hover:text-blue-500">reset here</a></p> -->
 </div>
 </div>
 

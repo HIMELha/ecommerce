@@ -56,7 +56,7 @@ $(document).ready(function () {
             })
         } else {
             err.show();
-            err.html('sob jaygay chalaki chole na bro. be honest!');
+            err.html('Please fill all required fields!');
         }
     });
 
@@ -348,7 +348,7 @@ $(document).ready(function () {
                 success: function (data) {
                     console.log(data);
                     if(data == 'success'){
-                        message('success', 'your order has been placed. You are redirecting to order history');
+                        message('success', 'your order has been placed. You are redirecting to order history...');
                         setTimeout(function () {
                             window.location.href = 'order.php';
                         }, 1500);

@@ -33,7 +33,7 @@ include 'header.php';?>
 </form>
 <div class="mt-6 mx-auto max-w-[400px]"> 
 <p class="p-2 text-slate-600">Already have an account? <a href="login.php" class="hover:text-blue-500">login</a></p>
-<p class="p-2 text-slate-600">forgot password? <a href="reset-pass.php" class="hover:text-blue-500">reset here</a></p>
+<!-- <p class="p-2 text-slate-600">forgot password? <a href="reset-pass.php" class="hover:text-blue-500">reset here</a></p> -->
 </div>
 </div>
 

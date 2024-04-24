@@ -17,8 +17,8 @@
         <div>
         <div class="image-text">
             <span class="image">
-                <i class="fa-brands fa-algolia"> <span>Tech.open</span> </i>
-                <h2>admin panel</h2>
+                <i class="fa-brands fa-algolia"> <span>MOBILESHOP</span> </i>
+                
                    <i class="fa-solid fa-chevron-left"></i>
             </span>
         </div>

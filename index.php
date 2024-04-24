@@ -13,7 +13,7 @@ include 'header.php';?>
 <!-- carosel ends here -->
   
 <!-- top trending mobile section starts here -->
-<div class="trendings mb-10 container mx-auto max-w-[1200px]">
+<!-- <div class="trendings mb-10 container mx-auto max-w-[1200px]">
 <div class="px-2 py-2 flex justify-between items-center shadow-sm">
   <h2 class="p-2 text-2xl text-center text-gray-600">Top Trending mobile phones</h2>
   <a class="text-md text-slate-600 hover:text-sky-800 cursor-pointer">view all <i class="ml-2 fa-solid fa-arrow-right"></i></a>
@@ -21,11 +21,11 @@ include 'header.php';?>
   <div id="products" class=" p-4 grid gap-4 lg:gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 
   </div>
-</div>
+</div> -->
 <!-- top trending mobile section ends here -->
 
 <!-- latest smart phones section starts here -->
-<div class="latest mb-10 container mx-auto max-w-[1200px]">
+<div class="latest mb-10 container mx-auto max-w-[1400px]">
  <div class="px-2 py-2 flex justify-between items-center shadow-sm">
   <h2 class="p-2 text-2xl text-center text-gray-600">Lastest Smart phones</h2>
   <a class="text-md text-slate-600 hover:text-sky-800 cursor-pointer">view all <i class="ml-2 fa-solid fa-arrow-right"></i></a>
@@ -95,12 +95,12 @@ include 'header.php';?>
 <!-- !WHY CHOOSE US -->
 
     <script type="module">
-        import Swiper from 'https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.mjs';
+        import swiper from 'https://cdn.jsdelivr.net/npm/swiper@11.0.7/+esm'
 
-        const swiper = new Swiper('.swiper', {
+        new swiper('.swiper', {
             // Optional parameters
             direction: 'horizontal',
-            loop: true,
+            loop: false,
             autoplay: {
                 delay: 3000, // Adjust the delay (time between slides) as needed
                 disableOnInteraction: false, // Set to false if you want autoplay to continue even when the user interacts with the slides
