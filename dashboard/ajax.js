@@ -31,12 +31,11 @@ $(document).ready(function () {
             type: 'POST',
             data: { username: username, password: password },
             success: function (response) {
-                console.log(response);
                 if (response == 'success') {
                     message('success', 'Login successful!');
-                    setTimeout(function () {
-                        window.location.href = 'dashboard.php';
-                    },2000)
+
+                    window.location.href = 'dashboard.php';
+
                 } else if(response == 'error'){
                     message('error', 'Login failed. Please check your credentials.');
                 }
@@ -59,6 +58,7 @@ $(document).ready(function () {
         })
     }
     loadCat();
+    
     // add category
     $('#add-cat').click(function () {
         $('#add-New').fadeIn();

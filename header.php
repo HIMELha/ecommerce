@@ -15,14 +15,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
     <!-- swiper js links -->
-        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 
 </head>
 <body>
     
 <!-- header start from here -->
-<div id="err-msg" class="absolute top-16 right-0  sm:max-w-[400px] sm:top-20 sm:right-0 py-3 px-6 bg-red-500 text-white rounded-sm z-index-50 hidden"></div>
-<div id="suc-msg" class="absolute top-16 right-0  sm:max-w-[400px] sm:top-20 sm:right-0 py-3 px-6 bg-blue-500 text-white rounded-sm z-index-50 hidden"></div>
+<div  id="err-msg" class="fixed top-5 right-4  sm:max-w-[400px] sm:top-10 sm:right-4 py-3 px-6 bg-red-500 text-white rounded-sm z-50  border-2 border-slate-200 flex justify-center items-center gap-3 hidden">
+    <i class="fa-solid fa-circle-xmark"></i>
+</div>
+<div id="suc-msg" class="fixed top-5 right-4  sm:max-w-[400px] sm:top-10 sm:right-4 py-3 px-6 bg-blue-500 text-white rounded-sm z-50  border-2 border-slate-200 flex justify-center items-center gap-3 hidden"><i class="fa-solid fa-circle-check"></i></div>
+
     <header id="header" class="relative">
         
         <div class="flex justify-between items-center p-2">

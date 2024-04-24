@@ -8,13 +8,13 @@ $(document).ready(function () {
         if (type === 'error') {
             suc.hide();
             err.fadeIn();
-            err.html(msg);
+            err.append(msg);
             setTimeout(function () { err.hide() }, 1500);
         } else if (type === 'success') {
             
             err.hide();
             suc.fadeIn();
-            suc.html(msg);
+            suc.append(msg);
             setTimeout(function () { suc.hide() }, 1500);
         } else {
             console.error('Invalid message type');
